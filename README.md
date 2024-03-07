@@ -19,6 +19,9 @@ https://github.com/microfaune/microfaune_ai
 https://github.com/baligar/FasterRCNN_birdCall_detection
 https://github.com/RSPB/BirdAudioDetectionChallenge2016
 https://github.com/Ajax0564/Birdcall-Sound-Event-Detection
+https://github.com/realzza/easybird
+https://github.com/Ajax0564/Birdcall-Sound-Event-Detection
+https://github.com/Ajax0564/Birdcall-Sound-Event-Detection/blob/master/test.ipynb
 
 
 # PWM signal processing:
