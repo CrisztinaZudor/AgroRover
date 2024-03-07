@@ -11,6 +11,9 @@ https://github.com/qiuqiangkong/bird_detection
 https://github.com/MacGyver-scarecrow/Bird_Detection_Project
 https://github.com/kongkip/BirdDetection
 https://github.com/re-compsci/BirdDetection/blob/main/BirdDetection.ipynb
+https://github.com/priyaskumar/Bird-Detection-Using-OpenCV
+https://github.com/IsaqueFranklin/Bird-Detection/blob/master/index.py
+https://github.com/gujashu/Bird-Detection/blob/main/Initial.ipynb
 
 # Audio signal processing:
 https://github.com/BatuhanYilmaz/birdSoundDetection
@@ -31,6 +34,10 @@ https://github.com/syedayazsa/Bird-Species-Detection/blob/main/BirdSpeciesDetect
 https://github.com/0xpix/BirdDetection/blob/main/main.ipynb
 https://github.com/Jiachen2cc/birdclef2022
 https://github.com/shdeepa/BirdCallDetection/blob/main/Model1.ipynb
+https://github.com/OrnlyP63/BirdSongDetection/blob/master/630631028_present/present.ipynb
+https://github.com/AvS78/BirdAudioDetection/blob/main/Ingest%40AdaptiveBirdDetector.ipynb
+https://github.com/a-tharva/OBDS/blob/master/identification/2.%20download.py
+https://github.com/Alexis-Fauxbaton/Bird-Detection/blob/main/code.ipynb
 
 # PWM signal processing:
 
