@@ -14,6 +14,7 @@ https://github.com/re-compsci/BirdDetection/blob/main/BirdDetection.ipynb
 https://github.com/priyaskumar/Bird-Detection-Using-OpenCV
 https://github.com/IsaqueFranklin/Bird-Detection/blob/master/index.py
 https://github.com/gujashu/Bird-Detection/blob/main/Initial.ipynb
+https://github.com/mirugwe1/bird_detection
 
 # Audio signal processing:
 https://github.com/BatuhanYilmaz/birdSoundDetection
