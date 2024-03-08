@@ -44,3 +44,11 @@ https://github.com/Alexis-Fauxbaton/Bird-Detection/blob/main/code.ipynb
 
 
 # IoT interface:
+
+
+# Implementation
+
+https://www.youtube.com/watch?v=zD0jE6ZGeG0
+https://www.youtube.com/watch?v=IM-F4sJ-5rc
+
+
