@@ -40,6 +40,8 @@ https://github.com/AvS78/BirdAudioDetection/blob/main/Ingest%40AdaptiveBirdDetec
 https://github.com/a-tharva/OBDS/blob/master/identification/2.%20download.py
 https://github.com/Alexis-Fauxbaton/Bird-Detection/blob/main/code.ipynb
 
+BEST CANDIDATE: https://www.kaggle.com/code/crisztinazudor/yamnet-bird-voice-detection/edit
+
 # PWM signal processing:
 
 
