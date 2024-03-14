@@ -46,6 +46,7 @@ BEST CANDIDATE: https://www.kaggle.com/code/crisztinazudor/yamnet-bird-voice-det
 
 
 # IoT interface:
+https://github.com/waveform80/picamera?tab=readme-ov-file<br>
 
 
 # Implementation
