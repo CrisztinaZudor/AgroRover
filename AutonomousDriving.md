@@ -42,7 +42,7 @@ https://www.emag.ro/incarcator-pentru-2-acumulatori-18650-li-ion-conectare-la-pr
 <br>
 <br>
 
-# ALIMENTAREA
+# Alimentarea
 <br>
 Arduino Mega: Baterie externa cu USB<br>
 Motoare: Alimentate de Motor Driver<br>
