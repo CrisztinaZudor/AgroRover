@@ -1,16 +1,15 @@
 # Autonomous Driving
 <br>
-<br>
 Concept (mecanic):<br>
 <br>
 Functionare:<br>
 <br>
-# BOM:<br>
-## 1. Arduino Mega x1<br>
+# BOM
+## 1. Arduino Mega x1
 Link achizitie:<br>
 https://www.emag.ro/modul-pentru-arduino-mega2560-r3-atmega-usb-isp-12-mhz-e421/pd/DGTR16MBM/#reviews-section<br>
 <br>
-## 2. Motor drivers x3<br>
+## 2. Motor drivers x3
 Link achizitie:<br>
 https://www.emag.ro/modul-driver-motoare-l298n-compatibil-arduino-ai016-s190/pd/DXK3ZQBBM/<br>
 Datasheet:<br>
@@ -22,18 +21,17 @@ https://www.hackster.io/ryanchan/how-to-use-the-l298n-motor-driver-b124c5<br>
 De ce L298N > L293D:<br>
 https://www.utmel.com/components/l293d-vs-l2978n-what-s-the-difference?id=1493<br>
 <br>
-## 3.	Microswitch x2<br>
+## 3.	Microswitch x2
 Link achizitie:<br>
 Simon<br>
-<br>
 Cum se foloseste:<br>
 https://docs.arduino.cc/built-in-examples/basics/DigitalReadSerial/<br>
 <br>
-## 4.	Suport de cate 3 Baterii x3<br>
+## 4.	Suport de cate 3 Baterii x3
 Link achizitie:<br>
 https://www.emag.ro/suport-acumulator-3-7v-18650-x-3-sloturi-s18650-3/pd/D6C49WBBM/<br>
 <br>
-## 5.	Baterii Li-Ion/18650/3.7v x9<br>
+## 5.	Baterii Li-Ion/18650/3.7v x9
 Link achizitie:<br>
 https://www.emag.ro/acumulator-li-ion-tip-18650-capacitate-mare-1200-mah-3-7v-dimensiuni-18x65x65-mm-acum1200mah/pd/D4HSWRBBM/<br>
 + Incarcator:<br>
@@ -41,7 +39,7 @@ https://www.emag.ro/incarcator-pentru-2-acumulatori-18650-li-ion-conectare-la-pr
 <br>
 <br>
 
-ALIMENTAREA<br>
+# ALIMENTAREA
 <br>
 Arduino Mega: Baterie externa cu USB<br>
 Motoare: Alimentate de Motor Driver<br>
