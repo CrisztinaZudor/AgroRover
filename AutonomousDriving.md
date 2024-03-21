@@ -4,7 +4,9 @@ Concept (mecanic):<br>
 <br>
 Functionare:<br>
 <br>
+
 # BOM
+
 ## 1. Arduino Mega x1
 Link achizitie:<br>
 https://www.emag.ro/modul-pentru-arduino-mega2560-r3-atmega-usb-isp-12-mhz-e421/pd/DGTR16MBM/#reviews-section<br>
