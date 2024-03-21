@@ -2,6 +2,7 @@
 <br>
 Concept (mecanic):<br>
 <br>
+
 Functionare:<br>
 <br>
 
