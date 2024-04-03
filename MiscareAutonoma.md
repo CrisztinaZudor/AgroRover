@@ -50,69 +50,11 @@ Microswitch: Alimentate de la Arduino<br>
 Motor Driver: Fiecare are alimentare separata. Nu se alimenteaza de la Arduino. Alimentate fiecare cu 3 baterii 18650, 3.7v, 12000mAh, Li-ion (intr-un suport => 11.1V)<br>
 <br>
 <br>
+
 # Arduino Code
-
-// Definirea pinilor pentru motoare și switch-uri<br>
-const int motorLeftFront = 2;<br>
-const int motorLeftRear = 3;<br>
-const int motorRightFront = 4;<br>
-const int motorRightRear = 5;<br>
-const int motorMiddleLeft = 6;<br>
-const int motorMiddleRight = 7;<br>
-const int switchLeftPin = 8;<br>
-const int switchRightPin = 9;<br>
 <br>
-void setup() {<br>
-  // Inițializarea pinilor<br>
-  pinMode(motorLeftFront, OUTPUT);<br>
-  pinMode(motorLeftRear, OUTPUT);<br>
-  pinMode(motorRightFront, OUTPUT);<br>
-  pinMode(motorRightRear, OUTPUT);<br>
-  pinMode(motorMiddleLeft, OUTPUT);<br>
-  pinMode(motorMiddleRight, OUTPUT);<br>
-  pinMode(switchLeftPin, INPUT_PULLUP);<br>
-  pinMode(switchRightPin, INPUT_PULLUP);<br>
-}<br>
-<br>
-void loop() {<br>
-  // Verificare stânga<br>
-  if (digitalRead(switchLeftPin) == LOW) {<br>
-    // Ocolire obstacol spre stânga<br>
-    digitalWrite(motorLeftFront, HIGH);<br>
-    digitalWrite(motorLeftRear, HIGH);<br>
-    digitalWrite(motorRightFront, LOW);<br>
-    digitalWrite(motorRightRear, LOW);<br>
-    digitalWrite(motorMiddleLeft, HIGH);<br>
-    digitalWrite(motorMiddleRight, HIGH);<br>
-  }<br>
-  // Verificare dreapta<br>
-  else if (digitalRead(switchRightPin) == LOW) {<br>
-    // Ocolire obstacol spre dreapta<br>
-    digitalWrite(motorLeftFront, LOW);<br>
-    digitalWrite(motorLeftRear, LOW);<br>
-    digitalWrite(motorRightFront, HIGH);<br>
-    digitalWrite(motorRightRear, HIGH);<br>
-    digitalWrite(motorMiddleLeft, HIGH);<br>
-    digitalWrite(motorMiddleRight, HIGH);<br>
-  }<br>
-  // Verificare față<br>
-  else {<br>
-    // Mergere înapoi și curba<br>
-    digitalWrite(motorLeftFront, LOW);<br>
-    digitalWrite(motorLeftRear, HIGH);<br>
-    digitalWrite(motorRightFront, LOW);<br>
-    digitalWrite(motorRightRear, HIGH);<br>
-    digitalWrite(motorMiddleLeft, HIGH);<br>
-    digitalWrite(motorMiddleRight, HIGH);<br>
-    delay(1000); // Timpul de mers înapoi<br>
-    // Oprire curba<br>
-    digitalWrite(motorLeftFront, HIGH);<br>
-    digitalWrite(motorLeftRear, HIGH);<br>
-    digitalWrite(motorRightFront, LOW);<br>
-    digitalWrite(motorRightRear, LOW);<br>
-    digitalWrite(motorMiddleLeft, HIGH);<br>
-    digitalWrite(motorMiddleRight, HIGH);<br>
-  }<br>
-}<br>
-
-<br>
+https://learn.parallax.com/tutorials/robot/shield-bot/robotics-board-education-shield-arduino/chapter-5-tactile-navigation-5<br>
+https://forum.arduino.cc/t/arduino-whiskers-arent-working-well/350054/5<br>
+Librarie Arduino: https://www.arduino.cc/reference/en/libraries/dcmotor/<br>
+RedBotBumper: https://github.com/sparkfun/RedBot_Whisker_Bumper<br>
+https://docs.idew.org/code-robotics/references/physical-inputs/mechanical-bumpers<br>
