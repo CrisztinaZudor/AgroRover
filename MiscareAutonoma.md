@@ -55,6 +55,7 @@ Motor Driver: Fiecare are alimentare separata. Nu se alimenteaza de la Arduino. 
 <br>
 https://learn.parallax.com/tutorials/robot/shield-bot/robotics-board-education-shield-arduino/chapter-5-tactile-navigation-5<br>
 https://forum.arduino.cc/t/arduino-whiskers-arent-working-well/350054/5<br>
+https://github.com/kodyamani/Robot-Cat-Whiskers/tree/master<br>
 Librarie Arduino: https://www.arduino.cc/reference/en/libraries/dcmotor/<br>
 RedBotBumper: https://github.com/sparkfun/RedBot_Whisker_Bumper<br>
 https://docs.idew.org/code-robotics/references/physical-inputs/mechanical-bumpers<br>
