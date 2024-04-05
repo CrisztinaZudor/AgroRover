@@ -56,6 +56,12 @@ https://www.arduino.cc/reference/en/libraries/dcmotor/<br>
 RedBotBumper: <br>
 https://github.com/sparkfun/RedBot_Whisker_Bumper<br>
 https://docs.idew.org/code-robotics/references/physical-inputs/mechanical-bumpers<br>
+Flowchart for code:<br>
+https://www.hackster.io/hda-robotics/project-1-2wd-obstacle-avoiding-robot-390ef8<br>
+https://www.researchgate.net/figure/The-Algorithm-Flowchart-Diagram-of-The-Obstacle-avoiding-Robot-Car-Based-on-Arduino_fig8_329042229<br>
+https://www.instructables.com/How-to-Make-an-Obstacle-Avoiding-Robot-Using-Ardui/<br>
+
+
 
 <br>
 <br>
