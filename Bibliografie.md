@@ -27,3 +27,7 @@ https://ieeexplore.ieee.org/document/6626714<br>
 https://ieeexplore.ieee.org/document/6065077<br>
 https://ieeexplore.ieee.org/document/8423620<br>
 https://ieeexplore.ieee.org/document/8423620<br>
+
+# Obstacle Avoidance
+To download from scribd:<br>
+https://www.slideshare.net/shubhamthakur614/final-report-obstacle-avoiding-roboat<br>
