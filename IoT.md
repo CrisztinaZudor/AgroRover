@@ -5,9 +5,14 @@ https://trackinno.com/iot/how-iot-works-part-3-data-processing/<br>
 https://trackinno.com/iot/how-iot-works-part-4-user-interface/<br>
 
 # Senors
+BME680:<br>
 -Temperature<br>
 -Hummidity<br>
--Presiune atmosferica
+-Presiune atmosferica<br>
+-Gaz<br>
+<br>
+Idei in plus:<br>
+- Led pe care sa il pornesti din aplicatie (blink) ca sa vezi robotul in intuneric<br>
 
 # Proiecte similare IoT
 https://nevonprojects.com/iot-based-smart-agriculture-monitoring-system-project/<br>
