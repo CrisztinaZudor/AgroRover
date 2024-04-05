@@ -20,6 +20,8 @@ https://www.utmel.com/components/l293d-vs-l2978n-what-s-the-difference?id=1493<b
 ## 3.	Microswitch x2
 Link achizitie:<br>
 Simon<br>
+Kinda Datasheet:<br>
+https://components101.com/switches/micro-switch-or-snap-action-switch<br>
 Cum se foloseste:<br>
 https://docs.arduino.cc/built-in-examples/basics/DigitalReadSerial/<br>
 <br>
