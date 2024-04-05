@@ -32,7 +32,7 @@ https://projecthub.arduino.cc/srajandikshit147/smoke-detector-using-gas-sensor-e
 # Sensors
 
 Idee: <br>
-Sa folosesc BME680 Bosch senzor, pe RaspberryPi 4 Model B si sa-l interfatez cu Adafruit/Blink.<br>
+Sa folosesc BME680 Bosch senzor, pe RaspberryPi 4 Model B si sa-l interfatez cu Adafruit/Blink/ThingSpeak.<br>
 Adafruit e o platforma care face interfete online. Nu stiu sigur daca poti cu alti senzori decat Adafruit. Se poate sa ai nevoie de WipperSnapper pentru a transmie datele. <br>
 Blink e o aplicatie pe care o instalezi pe telefon, iti cofigurezi un device (RaspberryPi si tipul de conexiune) dupa care iti trimite un mesaj pe mail cu codul si configurarile (librarii speciale, etc). O data configuat, adaugi componentele si le stilizezi pe telefon in functie de cum vrei sa arate<br>
 https://learn.adafruit.com/adafruit-bme680-humidity-temperature-barometic-pressure-voc-gas?view=all<br>
@@ -42,6 +42,8 @@ Setup BME680:<br>
 https://www.youtube.com/watch?v=TGWKcCPKhIE<br>
 Interfata (Blink):<br>
 https://www.youtube.com/watch?v=Me1nT1W6u_o<br>
+WipperSnapper:<br>
+https://learn.adafruit.com/quickstart-adafruit-io-wippersnapper/welcome-to-wippersnapper<br>
 
 # Bibliografie
 
