@@ -1,11 +1,4 @@
 # Miscare Autonoma
-<br>
-Concept (mecanic):<br>
-<br>
-
-Functionare:<br>
-<br>
-
 # BOM
 
 ## 1. Arduino Mega x1
@@ -59,3 +52,10 @@ https://github.com/kodyamani/Robot-Cat-Whiskers/tree/master<br>
 Librarie Arduino: https://www.arduino.cc/reference/en/libraries/dcmotor/<br>
 RedBotBumper: https://github.com/sparkfun/RedBot_Whisker_Bumper<br>
 https://docs.idew.org/code-robotics/references/physical-inputs/mechanical-bumpers<br>
+
+<br>
+<br>
+
+# Bibliografie
+https://www.allaboutcircuits.com/projects/control-a-motor-with-an-arduino/<br>
+https://projecthub.arduino.cc/lakshyajhalani56/l298n-motor-driver-arduino-motors-motor-driver-l298n-7e1b3b<br>
