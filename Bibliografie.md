@@ -20,8 +20,10 @@ https://www.youtube.com/watch?v=NAYgf9bltT0<br>
 https://www.realpars.com/blog/photoelectric-sensor-wiring<br>
 <br>
 # State of the art
+IEEEXplore<br>
 https://ieeexplore.ieee.org/document/8067853<br>
 https://ieeexplore.ieee.org/document/10046242<br>
 https://ieeexplore.ieee.org/document/6626714<br>
 https://ieeexplore.ieee.org/document/6065077<br>
+https://ieeexplore.ieee.org/document/8423620<br>
 https://ieeexplore.ieee.org/document/8423620<br>
