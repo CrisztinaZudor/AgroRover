@@ -33,9 +33,9 @@ Blink e o aplicatie pe care o instalezi pe telefon, iti cofigurezi un device (Ra
 https://learn.adafruit.com/adafruit-bme680-humidity-temperature-barometic-pressure-voc-gas?view=all<br>
 https://www.youtube.com/watch?v=Etm4fL8gE2k<br>
 https://learn.adafruit.com/adafruit-bme680-humidity-temperature-barometic-pressure-voc-gas/python-circuitpython<br>
-Setup:<br> 
+Setup BME680:<br> 
 https://www.youtube.com/watch?v=TGWKcCPKhIE<br>
-Interface:<br>
+Interfata (Blink):<br>
 https://www.youtube.com/watch?v=Me1nT1W6u_o<br>
 
 # Bibliografie
