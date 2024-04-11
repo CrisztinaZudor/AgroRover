@@ -5,7 +5,7 @@
 Nr. bucati: 1<br>
 Link: https://www.emag.ro/modul-pentru-arduino-mega2560-r3-atmega-usb-isp-12-mhz-e421/pd/DGTR16MBM/#reviews-section<br>
 Dimensiuni: 10cmx50cmx10cm<br>
-Dimensiuni: Lungime: mm, Latime: mm, Inaltime:  mm<br>
+Dimensiuni: Lungime: 500mm, Latime: 100mm, Inaltime:  100mm<br>
 
 ## RaspberryPi 4 Model B
 
@@ -17,7 +17,7 @@ Dimensiuni: Lungime: 85mm, Latime: 49mm, Inaltime:  mm<br>
 
 Nr. bucati: 1<br>
 Link:
-Dimensiuni: Lungime: mm, Latime: mm, Inaltime:  mm<br>
+Dimensiuni: Lungime: 25 mm, Latime: 24 mm, Inaltime: 11.5 mm<br>
 
 ## BME680 Sensor
 
@@ -35,7 +35,7 @@ Dimensiuni: Lungime: mm, Latime: mm, Inaltime:  mm<br>
 
 Nr. bucati: 3<br>
 Link: https://www.emag.ro/modul-driver-motoare-l298n-compatibil-arduino-ai016-s190/pd/DXK3ZQBBM/<br>
-Dimensiuni: Lungime: mm, Latime: mm, Inaltime:  mm<br>
+Dimensiuni: Lungime: 45mm, Latime: 45mm, Inaltime: 35mm<br>
 
 ## uS / Senzor cu infrarosu
 Nr. bucati: 1<br>
@@ -47,11 +47,11 @@ Nr. bucati: 3<br>
 Link:<br>
 BatteryHolder: https://www.emag.ro/suport-acumulator-3-7v-18650-x-3-sloturi-s18650-3/pd/D6C49WBBM/?ref=history-shopping_356366598_51269_1<br>
 Batteryes: https://www.emag.ro/acumulator-li-ion-tip-18650-capacitate-mare-1200-mah-3-7v-dimensiuni-18x65x65-mm-acum1200mah/pd/D4HSWRBBM/<br>
-Dimensiuni: Lungime: mm, Latime: mm, Inaltime:  mm<br>
+Dimensiuni: Lungime: 80mm, Latime: 60mm, Inaltime:  20mm<br>
 
 ## Baterie externa
 Nr. bucati: 1<br>
-Dimensiuni: Lungime: mm, Latime: mm, Inaltime:  mm<br>
+Dimensiuni: Lungime: 150mm, Latime: 90mm, Inaltime: 20mm<br>
 
 
 
