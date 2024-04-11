@@ -1,4 +1,4 @@
-# Lista componenete
+# LISTA COMPONENTE
 
 ## Arduino Mega2560 R3
 
