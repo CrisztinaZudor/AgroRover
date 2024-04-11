@@ -6,13 +6,13 @@ Nr. bucati: 1<br>
 Link:<br>
 https://www.emag.ro/modul-pentru-arduino-mega2560-r3-atmega-usb-isp-12-mhz-e421/pd/DGTR16MBM/#reviews-section<br>
 
-## RaspberryPie 4 Model B
+## RaspberryPi 4 Model B
 
 Nr. bucati: 1<br>
 Link:<br>
 https://www.emag.ro/pachet-complet-raspberry-pi-4-model-b-4gb-placa-de-baza-alimentator-carcasa-card-sd-16gb-oficiale-rpi44gb/pd/DN7RX5BBM/<br>
 
-## RaspberryPie camera
+## RaspberryPi camera
 
 Nr. bucati: 1<br>
 Link:<br>
