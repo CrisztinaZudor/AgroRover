@@ -37,9 +37,15 @@ Nr. bucati: 3<br>
 Link: https://www.emag.ro/modul-driver-motoare-l298n-compatibil-arduino-ai016-s190/pd/DXK3ZQBBM/<br>
 Dimensiuni: Lungime: 45mm, Latime: 45mm, Inaltime: 35mm<br>
 
-## uS / Senzor cu infrarosu /Ultrasonic
+## Senzor Ultrasonic
 Nr. bucati: 1<br>
-Link:
+Link: https://www.emag.ro/senzor-ultrasonic-hc-sr04-3874784221176/pd/DC0VQTYBM/<br>
+Dimensiuni: Lungime: mm, Latime: mm, Inaltime:  mm<br>
+
+## Servomotor
+Nr. bucati: 1<br>
+Link: https://www.emag.ro/motor-servo-sg90-9g-cl66/pd/DVZZ5JBBM/#reviews-section<br>
+Sau: https://www.emag.ro/motor-servo-360-12kg-cl258/pd/DT966JBBM/<br>
 Dimensiuni: Lungime: mm, Latime: mm, Inaltime:  mm<br>
 
 ## Battery holder + 3 baterii Li-Ion (1850)
@@ -53,8 +59,8 @@ Dimensiuni: Lungime: 80mm, Latime: 60mm, Inaltime:  20mm<br>
 Nr. bucati: 1<br>
 Dimensiuni: Lungime: 150mm, Latime: 90mm, Inaltime: 20mm<br>
 
-
-
+## Buton ON/OFF
+Nr. bucati: 1<br>
 
 
 
