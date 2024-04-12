@@ -46,6 +46,8 @@ Dimensiuni: Lungime: mm, Latime: mm, Inaltime:  mm<br>
 Nr. bucati: 1<br>
 Link: https://www.emag.ro/motor-servo-sg90-9g-cl66/pd/DVZZ5JBBM/#reviews-section<br>
 Sau: https://www.emag.ro/motor-servo-360-12kg-cl258/pd/DT966JBBM/<br>
+https://www.emag.ro/servomotor-mg90s-tower-pro-cu-angrenaje-metalice-4-8-6v-23x13x30-mm-2-c-048/pd/D6TWKLMBM/<br>
+https://www.emag.ro/servomotor-sg90-180-de-grade-ai0156-s297/pd/D33V1GMBM/#reviews-section<br>
 Dimensiuni: Lungime: mm, Latime: mm, Inaltime:  mm<br>
 
 ## Battery holder + 3 baterii Li-Ion (1850)
