@@ -4,7 +4,6 @@
 
 Nr. bucati: 1<br>
 Link: https://www.emag.ro/modul-pentru-arduino-mega2560-r3-atmega-usb-isp-12-mhz-e421/pd/DGTR16MBM/#reviews-section<br>
-Dimensiuni: 10cmx50cmx10cm<br>
 Dimensiuni: Lungime: 500mm, Latime: 100mm, Inaltime:  100mm<br>
 
 ## RaspberryPi 4 Model B
@@ -44,11 +43,8 @@ Dimensiuni: Lungime: mm, Latime: mm, Inaltime:  mm<br>
 
 ## Servomotor
 Nr. bucati: 1<br>
-Link: https://www.emag.ro/motor-servo-sg90-9g-cl66/pd/DVZZ5JBBM/#reviews-section<br>
-Sau: https://www.emag.ro/motor-servo-360-12kg-cl258/pd/DT966JBBM/<br>
-https://www.emag.ro/servomotor-mg90s-tower-pro-cu-angrenaje-metalice-4-8-6v-23x13x30-mm-2-c-048/pd/D6TWKLMBM/<br>
-https://www.emag.ro/servomotor-sg90-180-de-grade-ai0156-s297/pd/D33V1GMBM/#reviews-section<br>
-Dimensiuni: Lungime: mm, Latime: mm, Inaltime:  mm<br>
+Link: https://www.emag.ro/servomotor-mg90s-tower-pro-cu-angrenaje-metalice-4-8-6v-23x13x30-mm-2-c-048/pd/D6TWKLMBM/<br>
+Dimensiuni: Lungime: 23mm, Latime: 13mm, Inaltime:  30mm<br>
 
 ## Battery holder + 3 baterii Li-Ion (1850)
 Nr. bucati: 3<br>
@@ -63,7 +59,7 @@ Dimensiuni: Lungime: 150mm, Latime: 90mm, Inaltime: 20mm<br>
 
 ## Buton ON/OFF
 Nr. bucati: 1<br>
-
+Link: https://www.emag.ro/buton-intrerupator-rosu-on-off-led-dan687/pd/DK0H8MMBM/<br>
 
 
 
