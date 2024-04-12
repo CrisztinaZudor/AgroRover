@@ -77,3 +77,5 @@ https://projecthub.arduino.cc/lakshyajhalani56/l298n-motor-driver-arduino-motors
 Imagine cu interiorul motorului:<br>
 https://promnicesk.live/product_details/112498652.html<br>
 https://www.youtube.com/watch?v=GPVC84D5ULw<br>
+How to connect ON/OFF Button: https://www.youtube.com/watch?v=bNZv3dZpmSU<br>
+
