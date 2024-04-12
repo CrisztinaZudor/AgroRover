@@ -37,7 +37,7 @@ Nr. bucati: 3<br>
 Link: https://www.emag.ro/modul-driver-motoare-l298n-compatibil-arduino-ai016-s190/pd/DXK3ZQBBM/<br>
 Dimensiuni: Lungime: 45mm, Latime: 45mm, Inaltime: 35mm<br>
 
-## uS / Senzor cu infrarosu
+## uS / Senzor cu infrarosu /Ultrasonic
 Nr. bucati: 1<br>
 Link:
 Dimensiuni: Lungime: mm, Latime: mm, Inaltime:  mm<br>
