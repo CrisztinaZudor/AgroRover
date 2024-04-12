@@ -47,8 +47,9 @@ Motor Driver: Fiecare are alimentare separata. Nu se alimenteaza de la Arduino. 
 <br>
 
 # Varianta ultrasonic
-
+<br>
 Ultrasonic + servo: https://www.hackster.io/hda-robotics/project-1-2wd-obstacle-avoiding-robot-390ef8<br>
+https://www.youtube.com/watch?v=G0NQQ8GoSJU<br>
 
 # Arduino Code
 <br>
