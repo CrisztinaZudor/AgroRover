@@ -21,6 +21,16 @@ https://www.youtube.com/watch?v=G0NQQ8GoSJU<br>
 ### Senzor Ultrasonic
 <br>
 https://www.handsontec.com/dataspecs/HC-SR04-Ultrasonic.pdf<br>
+How to use: <br>
+https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/<br>
+
+### Servomotor
+<br>
+How to use: <br>
+https://components101.com/motors/mg90s-metal-gear-servo-motor<br>
+https://lastminuteengineers.com/servo-motor-arduino-tutorial/<br>
+https://www.youtube.com/watch?v=t2kGWidcaSk<br>
+
 
 <br>
 
@@ -30,6 +40,7 @@ Arduino Mega: Baterie externa cu USB<br>
 Motoare: Alimentate de Motor Driver<br>
 Microswitch: Alimentate de la Arduino<br>
 Motor Driver: Fiecare are alimentare separata. Nu se alimenteaza de la Arduino. Alimentate fiecare cu 3 baterii 18650, 3.7v, 12000mAh, Li-ion (intr-un suport => 11.1V)<br>
+ServoMotor:
 <br>
 
 ## Arduino Code
