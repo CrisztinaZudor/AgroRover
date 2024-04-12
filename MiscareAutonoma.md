@@ -76,3 +76,4 @@ https://www.allaboutcircuits.com/projects/control-a-motor-with-an-arduino/<br>
 https://projecthub.arduino.cc/lakshyajhalani56/l298n-motor-driver-arduino-motors-motor-driver-l298n-7e1b3b<br>
 Imagine cu interiorul motorului:<br>
 https://promnicesk.live/product_details/112498652.html<br>
+https://www.youtube.com/watch?v=GPVC84D5ULw<br>
