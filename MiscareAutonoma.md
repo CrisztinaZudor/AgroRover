@@ -2,6 +2,14 @@
 
 ## Documentare Componente
 
+
+### Motoare DC
+
+Un motor de curent continuu standard are de obicei două pini: unul pentru alimentarea pozitivă și unul pentru cea negativă.<br>
+Motivul este că, în multe cazuri, controlul direcției motorului se realizează prin comutarea polarității alimentării.<br>
+De exemplu, pentru a roti motorul spre înainte, se aplică o tensiune pozitivă la un pin și o tensiune negativă la celălalt. <br>
+Pentru a roti motorul înapoi, se inversează polaritatea.<br>
+
 ### Motor drivers L298N
 <br>
 Cum se foloseste:<br>
@@ -16,6 +24,7 @@ https://www.utmel.com/components/l293d-vs-l2978n-what-s-the-difference?id=1493<b
 <br>
 Ultrasonic + servo: https://www.hackster.io/hda-robotics/project-1-2wd-obstacle-avoiding-robot-390ef8<br>
 https://www.youtube.com/watch?v=G0NQQ8GoSJU<br>
+Este important de reținut că MAX_DISTANCE este o valoare arbitrară utilizată în codul dvs. Nu are nicio legătură directă cu distanța maximă reală a senzorului HC-SR04, care este de 4 metri (400 centimetri).<br>
 <br>
 
 ### Senzor Ultrasonic
