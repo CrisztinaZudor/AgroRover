@@ -1,56 +1,9 @@
 # LICENTA
 
-## Image processing: <br>
-https://github.com/Souravjyoti/Bird_detection<br>
-https://github.com/IIM-TTIJ/MVA2023SmallObjectDetection4SpottingBirds<br>
-https://github.com/microfaune/microfaune<br>
-https://github.com/xmba15/yolov3_pytorch<br>
-https://github.com/yenusu/OpenCV-Birds-Detection-Algorithm/blob/master/live.py<br>
-https://github.com/bmnds/bird-detection-model/blob/main/bird-image-classification-using-cnns.ipynb<br>
-https://github.com/qiuqiangkong/bird_detection<br>
-https://github.com/MacGyver-scarecrow/Bird_Detection_Project<br>
-https://github.com/kongkip/BirdDetection<br>
-https://github.com/re-compsci/BirdDetection/blob/main/BirdDetection.ipynb<br>
-https://github.com/priyaskumar/Bird-Detection-Using-OpenCV<br>
-https://github.com/IsaqueFranklin/Bird-Detection/blob/master/index.py<br>
-https://github.com/gujashu/Bird-Detection/blob/main/Initial.ipynb<br>
-https://github.com/mirugwe1/bird_detection<br>
-
-## Audio signal processing:<br>
-https://github.com/BatuhanYilmaz/birdSoundDetection<br>
-https://github.com/m-kortas/Sound-based-bird-species-detection<br>
-https://github.com/DCASE-REPO/bulbul_bird_detection_dcase2018<br>
-https://github.com/karolpiczak/BADC-2017<br>
-https://github.com/himaivan/BAD2<br>
-https://github.com/microfaune/microfaune_ai<br>
-https://github.com/baligar/FasterRCNN_birdCall_detection<br>
-https://github.com/RSPB/BirdAudioDetectionChallenge2016<br>
-https://github.com/Ajax0564/Birdcall-Sound-Event-Detection<br>
-https://github.com/realzza/easybird<br>
-https://github.com/Ajax0564/Birdcall-Sound-Event-Detection<br>
-https://github.com/Ajax0564/Birdcall-Sound-Event-Detection/blob/master/test.ipynb<br>
-https://github.com/maxcrous/bsed<br>
-https://github.com/xncatpaw/Bird-Audio-Detection<br>
-https://github.com/syedayazsa/Bird-Species-Detection/blob/main/BirdSpeciesDetection.ipynb<br>
-https://github.com/0xpix/BirdDetection/blob/main/main.ipynb<br>
-https://github.com/Jiachen2cc/birdclef2022<br>
-https://github.com/shdeepa/BirdCallDetection/blob/main/Model1.ipynb<br>
-https://github.com/OrnlyP63/BirdSongDetection/blob/master/630631028_present/present.ipynb<br>
-https://github.com/AvS78/BirdAudioDetection/blob/main/Ingest%40AdaptiveBirdDetector.ipynb<br>
-https://github.com/a-tharva/OBDS/blob/master/identification/2.%20download.py<br>
-https://github.com/Alexis-Fauxbaton/Bird-Detection/blob/main/code.ipynb<br>
-<br>
-BEST CANDIDATE: https://www.kaggle.com/code/crisztinazudor/yamnet-bird-voice-detection/edit<br>
-<br>
-# PWM signal processing:
-
-
 # IoT interface:
 https://github.com/waveform80/picamera?tab=readme-ov-file<br>
 
-
 # Implementation
-
 https://www.youtube.com/watch?v=zD0jE6ZGeG0<br>
 https://www.youtube.com/watch?v=IM-F4sJ-5rc<br>
 https://download.e-bookshelf.de/download/0015/4359/38/L-G-0015435938-0052889768.pdf<br>
