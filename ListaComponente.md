@@ -62,14 +62,10 @@ Nr. bucati: 1<br>
 Link: https://www.emag.ro/buton-intrerupator-rosu-on-off-led-dan687/pd/DK0H8MMBM/<br>
 
 # Fire Sensor (optinal)
-Nr bucati: 1 <br>
-Link:<br>
 Use:<br>
 https://www.instructables.com/Flame-detection-using-Arduino-and-flame-sensor/<br>
 
 # Rain Sensor (optional)
-Nr bucati: 1 <br>
-Link:<br>
 Use:<br>
 https://circuitdigest.com/microcontroller-projects/interfacing-rain-sensor-with-arduino<br>
 
