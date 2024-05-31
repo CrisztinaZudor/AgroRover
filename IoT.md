@@ -29,6 +29,7 @@ https://nevonprojects.com/camera-based-surveillance-system-using-raspberry-pi-pr
 # Smoke detection
 https://projecthub.arduino.cc/srajandikshit147/smoke-detector-using-gas-sensor-ecdee6<br>
 
+
 # Sensors
 
 Idee: <br>
@@ -44,7 +45,38 @@ Interfata (Blink):<br>
 https://www.youtube.com/watch?v=Me1nT1W6u_o<br>
 WipperSnapper:<br>
 https://learn.adafruit.com/quickstart-adafruit-io-wippersnapper/welcome-to-wippersnapper<br>
-
+<br>
+<br>
+BME260 official datasheet and support<br>
+<br>
+<br>
+Bme680 with raspberry:<br>
+https://www.youtube.com/watch?v=T7L7WMHbhY0<br>
+https://github.com/adafruit/Adafruit_Python_BME280
+<br>
+ThingSpeak:<br>
+https://www.mathworks.com/help/thingspeak/
+https://www.mathworks.com/help/thingspeak/<br>
+https://uk.mathworks.com/help/thingspeak/getting-started-with-thingspeak.html<br>
+https://tinoiot.com/tutorials/thingspeak-bme280-raspberry-pi/<br>
+https://uk.mathworks.com/help/matlab/supportpkg/iot-temperature-monitoring-thingspeak-arduino-example.html<br>
+Reasons to choose MQTT: <br>
+https://www.nabto.com/mqtt-vs-rest-iot/#:~:text=While%20MQTT%20mainly%20sends%20and,to%20REST%20APIs%20in%20IoT.<br>
+https://www.nabto.com/mqtt-protocol-iot/<br>
+https://willj.net/posts/humidity-temperature-and-pressure-sensing-on-a-raspberry-pi-with-go/<br>
+<br>
+<br>
+<br>
+<br>
+MQTT<br>
+https://randomnerdtutorials.com/esp32-mqtt-publish-bme280-arduino/<br>
+https://randomnerdtutorials.com/what-is-mqtt-and-how-it-works/<br>
+https://www.youtube.com/watch?v=pAEdcvU0fNw<br>
+https://www.youtube.com/watch?v=_DO2wHI6JWQ<br>
+<br>
+<br>
+<br>
+<br>
 # Bibliografie
 
 https://fastercapital.com/content/Weather-Station--Building-Your-Own-Weather-Monitoring-System-with-RPi.html<br>
