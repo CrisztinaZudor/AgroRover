@@ -47,6 +47,14 @@ Grafana interface: <br>
 
 ## Setup Instructions
 1. **Assembly of the Robot**: Follow the images in the implementation part to build the mechanical structure of AgroRover.
+<br>
+Connections for the Autonomous Movement Module: <br>
+    ![image](https://github.com/user-attachments/assets/ddc2a21b-ae0f-4b59-bdd2-822e562dc671) <br>
+   <br>
+The Final Configuration of the Monitoring Module<br>
+   ![image](https://github.com/user-attachments/assets/9c83cd54-4ea0-4ad<br>1-be93-cf760d986951)<br>
+
+
 2. **Installing the Control Software**:
    - **Arduino Setup**: Load the provided Arduino code into the Arduino Mega 2560 R3. This code manages the motors and sensors, ensuring smooth autonomous operations. See `arduino_code.ino` in the repository.
    - **Raspberry Pi Setup**: Set up the Raspberry Pi OS and configure it for network access. Install Node-RED, InfluxDB, and Grafana following the configuration provided in the implemetation part.
