@@ -57,7 +57,9 @@ Connections for the Autonomous Movement Module: <br>
 
    <br>
 The Final Configuration of the Monitoring Module: <br>
+
 ![image](https://github.com/user-attachments/assets/33aaaac6-f86b-4f76-82f8-d8040c5ca17d)
+
 <br>
 
 
