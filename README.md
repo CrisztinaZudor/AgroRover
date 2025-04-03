@@ -39,10 +39,10 @@ The Raspberry Pi 4 Model B manages the monitoring and network communication, uti
 During testing, the robot demonstrated effective navigation and data collection capabilities, though limitations were noted with obstacle detection precision and maneuverability on varying surfaces. These insights have guided further refinements in design and functionality.
 
 ## Setup Instructions
-1. **Assembly of the Robot**: Follow the assembly guide to build the mechanical structure of AgroRover. Include images of each assembly step for clarity.
+1. **Assembly of the Robot**: Follow the images in the implementation part to build the mechanical structure of AgroRover.
 2. **Installing the Control Software**:
    - **Arduino Setup**: Load the provided Arduino code into the Arduino Mega 2560 R3. This code manages the motors and sensors, ensuring smooth autonomous operations. See `arduino_code.ino` in the repository.
-   - **Raspberry Pi Setup**: Set up the Raspberry Pi OS and configure it for network access. Install Node-RED, InfluxDB, and Grafana following the configuration guides provided.
+   - **Raspberry Pi Setup**: Set up the Raspberry Pi OS and configure it for network access. Install Node-RED, InfluxDB, and Grafana following the configuration provided in the implemetation part.
 
 ## Usage
 - Start the system by powering the Raspberry Pi and Arduino.
