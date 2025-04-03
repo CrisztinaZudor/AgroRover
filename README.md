@@ -26,13 +26,13 @@ The Control and Processing Section:<br>
 ### Autonomous Motion
 The autonomous motion of the robot is controlled by the Arduino Mega, which acts as the brain of the operation. It processes distance measurements from an ultrasonic sensor to navigate around obstacles and controls the motion through servomotors and motor drivers. The autonomy is facilitated by a custom algorithm that dictates movement instructions based on sensor input.
 <br>
-![image](https://github.com/user-attachments/assets/030181c1-5d2e-4449-8c39-e5fc8fea7ee5)
+![image](https://github.com/user-attachments/assets/030181c1-5d2e-4449-8c39-e5fc8fea7ee5)<br>
 <br>
 
 ### Monitoring and Control
 The Raspberry Pi 4 Model B manages the monitoring and network communication, utilizing Node-RED for orchestrating data flows and InfluxDB for data storage. Grafana visualizes the data, while remote management is achieved through SSH and web interfaces. The system also incorporates video streaming capabilities using raspivid and netcat for real-time field monitoring.
 <br>
-![image](https://github.com/user-attachments/assets/93197526-8310-4c5d-8bc7-e0b784ed6007)
+![image](https://github.com/user-attachments/assets/93197526-8310-4c5d-8bc7-e0b784ed6007)<br>
 <br>
 
 ## Experimental Results
