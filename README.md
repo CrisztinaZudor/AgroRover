@@ -64,7 +64,7 @@ The Final Configuration of the Monitoring Module: <br>
 
 
 2. **Installing the Control Software**:
-   - **Arduino Setup**: Load the provided Arduino code into the Arduino Mega 2560 R3. This code manages the motors and sensors, ensuring smooth autonomous operations. See `arduino_code.ino` in the repository.
+   - **Arduino Setup**: Load the provided Arduino code into the Arduino Mega 2560 R3. This code manages the motors and sensors, ensuring smooth autonomous operations. See `AgroRoer.ino` in the repository.
    - **Raspberry Pi Setup**: Set up the Raspberry Pi OS and configure it for network access. Install Node-RED, InfluxDB, and Grafana following the configuration provided in the implemetation part.
 
 ## Usage
