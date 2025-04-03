@@ -1,7 +1,7 @@
 # AgroRover
 
 ## Description
-AgroRover is an autonomous robotic platform designed for agricultural monitoring. The project integrates advanced mechanical systems, hardware components, and software applications to navigate and gather data in agricultural environments effectively.
+AgroRover is an autonomous robotic platform designed for agricultural monitoring. The project integrates mechanical systems, hardware components, and software applications to navigate and gather data in agricultural environments effectively.
 
 ## Technologies Used
 - **Mechanical Components**: Rocker-Bogie suspension mechanism, 3D printed parts.
