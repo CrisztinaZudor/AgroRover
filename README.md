@@ -13,15 +13,15 @@ AgroRover is an autonomous robotic platform designed for agricultural monitoring
 ### Building the Robot
 AgroRover is constructed from three main parts: the Rocker, the Bogie, and the Housing, all produced through 3D printing. The 3D model was designed using Autodesk Fusion, providing a robust and adaptable structure ideal for agricultural terrains.
 
-The Rocker-Bogie and Housing:
+The Rocker-Bogie and Housing:<br>
 ![Image](https://github.com/user-attachments/assets/06b50f2e-769e-4de6-80b1-58edaea05c91)
-
-The Power Supply Section:
+<br>
+The Power Supply Section:<br>
 ![image](https://github.com/user-attachments/assets/c268d25b-275e-4e45-8e4e-4ed1e71d407b)
-
-The Control and Processing Section:
+<br>
+The Control and Processing Section:<br>
 ![image](https://github.com/user-attachments/assets/d12de5b4-89da-4dbd-ada3-c36264b265d3)
-
+<br>
 
 ### Autonomous Motion
 The autonomous motion of the robot is controlled by the Arduino Mega, which acts as the brain of the operation. It processes distance measurements from an ultrasonic sensor to navigate around obstacles and controls the motion through servomotors and motor drivers. The autonomy is facilitated by a custom algorithm that dictates movement instructions based on sensor input.
