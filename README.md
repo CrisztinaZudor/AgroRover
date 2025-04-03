@@ -55,7 +55,3 @@ During testing, the robot demonstrated effective navigation and data collection 
 - Access the Node-RED web interface via the Raspberry Pi's IP to monitor and control the data flows.
 - Use Grafana to visualize the collected data in insightful dashboards.
 - Monitor the video stream through VLC using the Raspberry Pi camera for real-time visual feedback of the environment.
-
----
-
-This revised README ensures better readability and correctness while maintaining a professional tone suitable for a project documentation.
