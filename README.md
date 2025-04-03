@@ -37,6 +37,13 @@ The Raspberry Pi 4 Model B manages the monitoring and network communication, uti
 
 ## Experimental Results
 During testing, the robot demonstrated effective navigation and data collection capabilities, though limitations were noted with obstacle detection precision and maneuverability on varying surfaces. These insights have guided further refinements in design and functionality.
+<br>
+AgroRover final assembly:<br>
+![image](https://github.com/user-attachments/assets/40f42cc0-04f9-4d7b-b8ea-20b732361e8f)
+<br>
+Grafana interface: <br>
+![image](https://github.com/user-attachments/assets/002baebf-dae3-4d3e-b83a-2efdc552ebaf)
+<br>
 
 ## Setup Instructions
 1. **Assembly of the Robot**: Follow the images in the implementation part to build the mechanical structure of AgroRover.
