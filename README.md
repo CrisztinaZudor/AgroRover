@@ -51,9 +51,12 @@ Grafana interface: <br>
 1. **Assembly of the Robot**: Follow the images in the implementation part to build the mechanical structure of AgroRover.
 <br>
 Connections for the Autonomous Movement Module: <br>
-![image](https://github.com/user-attachments/assets/ddc2a21b-ae0f-4b59-bdd2-822e562dc671) <br>
+
+![image](https://github.com/user-attachments/assets/6cef90bd-101f-455a-9762-34abe123dff5)
+
+
    <br>
-The Final Configuration of the Monitoring Module<br>
+The Final Configuration of the Monitoring Module: <br>
 ![image](https://github.com/user-attachments/assets/33aaaac6-f86b-4f76-82f8-d8040c5ca17d)
 <br>
 
